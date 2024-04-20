@@ -24,23 +24,6 @@ This resource for ESX adds police armories, vehicle garages and ability for cops
 * ESX Status Support
   * [esx_status](https://github.com/ESX-Org/esx_status)
 
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_policejob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_policejob [esx]/esx_policejob
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_policejob/archive/master.zip
-- Put it in the `[esx]` directory
-
 
 ## Installation
 - Import `esx_policejob.sql` in your database
